@@ -1,0 +1,23 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+ca-certs
+ca-certs-static
+ccache
+openjdk13
+openjdk13-dev
+curl
+curl-bin
+xmlstarlet
+openssl-dev
+findutils
+mlocate
+p11-kit
+bash
+curl-lib
+curl-dev
+openssl-lib
+zlib-dev
+pcre-dev
+pcre-extras
+gradle
+gradle-dev

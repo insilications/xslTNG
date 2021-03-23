@@ -1,0 +1,3 @@
+pushd ../
+ln -sf build/stage/zip/bin/docbook %{buildroot}/usr/bin/docbook
+popd
