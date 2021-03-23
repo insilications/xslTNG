@@ -1,3 +1,2 @@
-pushd ../
-ln -sf build/stage/zip/bin/docbook %{buildroot}/usr/bin/docbook
-popd
+mkdir -p %{buildroot}/usr/bin
+ln -sf /opt/xslTNG/bin/docbook %{buildroot}/usr/bin/docbook

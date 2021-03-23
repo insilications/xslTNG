@@ -21,3 +21,8 @@ pcre-dev
 pcre-extras
 gradle
 gradle-dev
+gradle-bin
+git
+python3
+python3-dev
+click
